@@ -16,3 +16,7 @@ Actualización!
 - p04-procesa-calificaciones
 - p05-tabla-de-conversion
 - p06-factorial-numeros
+
+## Actividad 03
+
+- p07-estadisticas
