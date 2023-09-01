@@ -3,9 +3,6 @@
 int ini, fin, c;
 float tcd=17.70f, tcl=21.21f, tce=18.19f, tca=0.048f;
 
-Console.Clear();
-Console.WriteLine("Imprime tabla de conversion de monedas\n");
-
 do{
     Console.Write("Inicio : "); ini= int.Parse(Console.ReadLine());
     Console.Write("Fin    : "); fin= int.Parse(Console.ReadLine());
