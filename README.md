@@ -38,3 +38,6 @@ Actualización!
 
 - p15-control-bancario-v2
 
+## Tarea 02 - Programación Orientada a Objetos
+
+- p15-control-ventas-v1
