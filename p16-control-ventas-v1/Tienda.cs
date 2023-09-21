@@ -21,12 +21,12 @@ public class Tienda{
         Console.WriteLine($"La Tienda Tiene: {Clientes.Count} clientes\n");
 
         // Ciclo para mostrar el cliente, la venta y el subtotal de la compra 
-        decimal totalVentasTienda = 0;
+        double totalVentasTienda = 0;
         foreach (Cliente cl in Clientes)
         {
             Console.WriteLine($"Cliente: {cl.ToString()}");
 
-            decimal subtotalCliente = 0;
+            double subtotalCliente = 0;
             foreach (Venta venta in cl.Ventas)
             {
                 Console.WriteLine($"Venta: {venta.ToString()}");

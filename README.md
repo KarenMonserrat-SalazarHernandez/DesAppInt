@@ -40,4 +40,5 @@ Actualización!
 
 ## Tarea 02 - Programación Orientada a Objetos
 
-- p15-control-ventas-v1
+- p16-control-ventas-v1 
+- p16-control-ventas-v2 (clase)

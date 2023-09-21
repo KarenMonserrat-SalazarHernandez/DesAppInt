@@ -7,9 +7,9 @@ public class Venta
     public Venta(string articulo, int cantidad, double precio) => (Articulo, Cantidad, Precio) = (articulo, cantidad, precio);
   
     // Método para calcular el total de la venta de cada cliente
-    public decimal CalcularTotal()
+    public double CalcularTotal()
     {
-        return Convert.ToDecimal(Cantidad * Precio);
+        return Convert.ToDouble(Cantidad * Precio);
     }
 
     public override string ToString() => $"Articulo: {Articulo}, Cantidad: {Cantidad}, Precio: ${Precio}";

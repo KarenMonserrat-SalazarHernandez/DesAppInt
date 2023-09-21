@@ -12,4 +12,4 @@ public class Cliente
     public void AgregarVenta(Venta venta) => Ventas.Add(venta);
 
     public override string ToString() => $"Nombre: {Nombre}, RFC: {RFC}, Domicilio: {Domicilio}, Correo: {Correo}";
-}
+} 
