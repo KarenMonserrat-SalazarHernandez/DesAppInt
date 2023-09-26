@@ -42,3 +42,7 @@ Actualización!
 
 - p16-control-ventas-v1 
 - p16-control-ventas-v2 (clase)
+
+## Primer Examen Parcial
+
+- p17-primer-examen-parcial
