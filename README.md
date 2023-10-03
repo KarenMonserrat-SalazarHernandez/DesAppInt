@@ -46,3 +46,12 @@ Actualización!
 ## Primer Examen Parcial
 
 - p17-primer-examen-parcial
+
+## Actividad 06 - LINQ 
+
+- p18-linq1
+- p19-linq2
+- p20-linq3
+
+
+
