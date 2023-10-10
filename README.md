@@ -58,6 +58,11 @@ Actualización!
 - p21-linq4
 - p22-linq5
 
+## Actividad 08 - BLAZOR
+
+- p23-BlazorApp
+- p24-TodoList
+
 
 
 
