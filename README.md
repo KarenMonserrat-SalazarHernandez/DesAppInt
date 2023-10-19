@@ -63,6 +63,10 @@ Actualización!
 - p23-BlazorApp
 - p24-TodoList
 
+## Actividad 09 - BLAZOR - CRUD
+
+- p25-simple-crud
+
 
 
 
