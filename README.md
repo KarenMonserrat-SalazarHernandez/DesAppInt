@@ -65,7 +65,7 @@ Actualización!
 
 ## Actividad 09 - BLAZOR - CRUD
 
-- p25-simple-crud
+- p25-crud
 
 
 
