@@ -67,6 +67,13 @@ Actualización!
 
 - p25-crud
 
+## Tarea 03 - Crud Jugador
+
+- p26-crud-jugador
+
+
+
+
 
 
 
