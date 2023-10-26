@@ -71,6 +71,10 @@ Actualización!
 
 - p26-crud-jugador
 
+## Segundo Examen Parcial
+
+- p27-Segundo Examen Parcial
+
 
 
 
