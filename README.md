@@ -83,7 +83,9 @@ Actualización!
 
 - 29-crud-universidad-p2
 
+## Tercer Examen Parcial
 
+- 30-tercer-examen-parcial
 
 
 
